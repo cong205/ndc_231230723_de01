@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ndc_231230723_de01
+build_property.RootNamespace = ndc_231230723_de01
+build_property.ProjectDir = D:\WebMVC\NguyenDinhCong_231230723_de01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WebMVC\NguyenDinhCong_231230723_de01
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcComputers/NdcCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjQ29tcHV0ZXJzXE5kY0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcComputers/NdcDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjQ29tcHV0ZXJzXE5kY0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcComputers/NdcDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjQ29tcHV0ZXJzXE5kY0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcComputers/NdcEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjQ29tcHV0ZXJzXE5kY0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcComputers/NdcIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjQ29tcHV0ZXJzXE5kY0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcHome/NdcContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjSG9tZVxOZGNDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcHome/NdcIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjSG9tZVxOZGNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/NdcHome/NdcPrivacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmRjSG9tZVxOZGNQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebMVC/NguyenDinhCong_231230723_de01/Views/Shared/_ndcLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uZGNMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-topwgshz3q
